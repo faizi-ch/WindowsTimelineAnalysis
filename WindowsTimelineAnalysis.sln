@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTimelineAnalysis", "WindowsTimelineAnalysis\WindowsTimelineAnalysis.csproj", "{E00788C5-21D0-4513-964C-3A8A2037548A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E00788C5-21D0-4513-964C-3A8A2037548A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00788C5-21D0-4513-964C-3A8A2037548A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00788C5-21D0-4513-964C-3A8A2037548A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00788C5-21D0-4513-964C-3A8A2037548A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926F1A42-0114-43B7-B3B9-FF7059E388DB}
+	EndGlobalSection
+EndGlobal
